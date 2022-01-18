@@ -1,0 +1,21 @@
+ESTRUTURA
+
+página 
+https://www.sitemercado.com.br/supermercadoiob/joao-pessoa-manaira-manaira-rua-major-ciraulo/produtos/limpeza/casa-em-geral
+  
+  item
+  <div class="list-product-item">
+    
+    informações
+    <div class="area-preco">
+      <div class="area-bloco-preco">
+        <span>R$</span>
+        Preço
+    <div class="area-title-brand-txt-desc">
+
+git init
+git add -A
+git commit -m "hello scrapper!"
+git branch -M main
+git remote add origin https://github.com/rafaelsanchezsouza/scrapper.git
+git push -u origin main
